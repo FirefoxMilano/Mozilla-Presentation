@@ -3,6 +3,11 @@
 	background: transparent url("none") repeat scroll 0% 0% !important;
 }
 
+blockquote{
+	font-style: italic;
+	padding: 10px;
+}
+
 .myright {
 	margin-top: 4rem;
 	margin-right: 4rem;
